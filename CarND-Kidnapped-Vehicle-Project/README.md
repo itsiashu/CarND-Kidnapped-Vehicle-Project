@@ -83,6 +83,9 @@ OUTPUT: values provided by the c++ program to the simulator
 
 
 Your job is to build out the methods in `particle_filter.cpp` until the simulator output says:
+```
+![particle_filter](./Particle_Filter.png?raw=true "Title")
+```
 
 ```
 Success! Your particle filter passed!
